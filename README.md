@@ -12,4 +12,5 @@ This technology can help deaf and mute individuals communicate with society in a
 ![image](https://user-images.githubusercontent.com/41492875/169708054-e9c15d5d-888c-45e1-9369-19b2b6cd6d70.png)
 
 ## Author
-[Yousef Kotp](https://github.com/yousefkotp)
+[Eman Yaser]([https://github.com/yousefkotp](https://github.com/Eman92003)https://github.com/Eman92003)
+[Ahmed Ashraf](https://github.com/Ghost301333)
