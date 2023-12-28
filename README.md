@@ -10,6 +10,6 @@ This technology can help deaf and mute individuals communicate with society in a
 
 
 ## Author
-[Eman Yaser](https://github.com/Eman92003) //
+[Eman Yaser](https://github.com/Eman92003)
 
 [Ahmed Ashraf](https://github.com/Ghost301333)
