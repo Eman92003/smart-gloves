@@ -8,6 +8,10 @@ Facilitating the lives of people with disabilities is one of the most important 
 The hand gesture is read by the flexible sensor and its output is fed to the Arduino microcontroller, which processes the signals and converts them from analog to digital. The microcontroller then compares the gesture with stored gestures; if it does not match, it will be ignored. If it matches a stored gesture, the translated sign language will be displayed.
 This technology can help deaf and mute individuals communicate with society in a much easier way.
 
+## Proposed Solution architecture
+![image](https://github.com/Eman92003/smart-gloves/blob/main/yyy.jpg)
+
+
 
 ## Author
 [Eman Yaser](https://github.com/Eman92003)
